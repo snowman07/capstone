@@ -44,7 +44,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'My Sitess',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/ez-logo.svg',
+          src: 'img/undraw_Astronaut.svg',
         },
         items: [
           {
