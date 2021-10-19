@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu_repo_try=self.webpackChunkdocu_repo_try||[]).push([[74],{3713:function(o){o.exports=JSON.parse('{"allTagsPath":"/capstone/blog/tags","slug":"/capstone/blog/tags/facebook","name":"facebook","count":1,"permalink":"/capstone/blog/tags/facebook"}')}}]);

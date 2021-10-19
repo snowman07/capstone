@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu_repo_try=self.webpackChunkdocu_repo_try||[]).push([[499],{6754:function(s){s.exports=JSON.parse('{"allTagsPath":"/capstone/blog/tags","slug":"/capstone/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/capstone/blog/tags/docusaurus"}')}}]);
