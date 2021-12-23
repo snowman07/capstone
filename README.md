@@ -13,6 +13,14 @@ Run this command:
 
 <br/><br/><br/><br/>
 
+# Running the Project
+
+- Using CLI (I personally use PowerShell), go to the project
+- If directory is already pointing to your project, run the command `npm start`
+- Project should open to the browser. If you want to open the project to other browsers, type `localhost:3000`
+
+<br/><br/>
+
 # Golden Rule
 
 - Always `git pull` when starting to code and when creating a branch to get the most updated code.
